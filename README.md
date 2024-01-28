@@ -1,10 +1,27 @@
-   # What is the project?
-   * I made a guessing game with Python using Pycharm
-   # How does the project work?
-   * Our project consists of a test question.
-    Every question you know gives you +5 points, if you get it wrong you lose one life for each question and you have no right to make mistakes, you have 3 lives in the game.
-   # Content of the project
-   * In this game I wrote, I created categories where you can solve any type of questions you want, and I also added variables so you can solve all the questions if you want. There are 3 geography, 3 history and 3 
-    science related questions in our game. Our game consists of 9 questions in total, or you can finish it with only 3 questions in the category you choose.
-   # Resources I use
-   * The sources I used were Youtube, ChatGPT and W3schools.
+ # Guessing Game with Python
+ # Project Overview:
+ * This Python project is a guessing game developed using PyCharm. The game presents users with a set of test questions spanning multiple categories. Each correct answer earns the player +5 points, while an 
+  incorrect answer results in a deduction of one life per question. Players have a total of 3 lives during the game, and the objective is to maximize the score by answering questions correctly.
+
+  # How the Project Works:
+  * The game offers a variety of questions across different categories, allowing players to test their knowledge in geography, history, and science.
+  * Players earn +5 points for each correct answer.
+  * Incorrect answers lead to a deduction of one life per question.
+  * Players start with 3 lives, and the game ends when all lives are exhausted.
+  * There is an option to choose questions from a specific category or attempt questions from multiple categories.
+  # Project Content:
+  * The game includes 9 questions in total, divided into 3 questions each for geography, history, and science. Players can choose to complete the game by answering questions from all categories or focus on a 
+    specific category to finish the game.
+
+  # How to Play:
+  * Launch the game.
+  * Enter your name.
+  * Choose a game theme (e.g., geography, history, science).
+  * Answer the presented questions to earn points.
+  * Score +5 points for each correct answer.
+  * Lose one life for each incorrect answer.
+  * The game ends when all lives are exhausted.
+  # Resources Used:
+  * Python programming language
+  * PyCharm integrated development environment
+  * ChatCPT
