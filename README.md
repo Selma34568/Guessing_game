@@ -24,4 +24,4 @@
   # Resources Used:
   * Python programming language
   * PyCharm integrated development environment
-  * ChatCPT
+  * ChatGPT
